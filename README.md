@@ -1,3 +1,3 @@
 Gamma Spectroscopy files
 
-Check out the [project page](eigenlucy.com/projects/gammaspectroscopy)
+Check out the [project page](https://eigenlucy.com/projects/gammaspectroscopy)
